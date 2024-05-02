@@ -1,0 +1,11 @@
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\bin\Debug\net8.0\operaciones.deps.json
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\bin\Debug\net8.0\operaciones.dll
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\bin\Debug\net8.0\operaciones.pdb
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.dll
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\refint\operaciones.dll
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.pdb
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\ref\operaciones.dll
