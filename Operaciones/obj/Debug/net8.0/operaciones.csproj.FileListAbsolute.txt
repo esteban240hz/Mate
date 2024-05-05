@@ -9,3 +9,4 @@ C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\op
 C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\refint\operaciones.dll
 C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.pdb
 C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\ref\operaciones.dll
+C:\Users\LEGION\Documents\Software Avanzado\Mate\Operaciones\obj\Debug\net8.0\operaciones.sourcelink.json

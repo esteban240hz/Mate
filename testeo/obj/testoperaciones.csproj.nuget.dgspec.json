@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\test\\testoperaciones.csproj": {}
+    "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\testeo\\testoperaciones.csproj": {}
   },
   "projects": {
     "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\Operaciones\\operaciones.csproj": {
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\test\\testoperaciones.csproj": {
+    "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\testeo\\testoperaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\test\\testoperaciones.csproj",
+        "projectUniqueName": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\testeo\\testoperaciones.csproj",
         "projectName": "testoperaciones",
-        "projectPath": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\test\\testoperaciones.csproj",
+        "projectPath": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\testeo\\testoperaciones.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\test\\obj\\",
+        "outputPath": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\testeo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",

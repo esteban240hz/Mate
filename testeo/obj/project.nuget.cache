@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xJNxbFOa3k0bGItXZk9S0dBikHXHoySIe3kHdXSfEjL3JrMQRQGU5MMTgQfSoRgvmyv87F/qNFALcID1QH/IWA==",
+  "dgSpecHash": "m5FVShOltHtZcBSdB/6f+YqkTcXZ3Nu+XQKdAKt+WgqMuw4Sm48notzGRB2fkyEMQdefeSpJ8KItqXyRIk5APQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\test\\testoperaciones.csproj",
+  "projectFilePath": "C:\\Users\\LEGION\\Documents\\Software Avanzado\\Mate\\testeo\\testoperaciones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
